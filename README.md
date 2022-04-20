@@ -63,7 +63,8 @@ Follow these steps:
 2. Go to a favicon generator site like [favicon.io](https://favicon.io), go through the steps to get you icon files.
 3. Place those files in the `public/static/favicon/` like so:
 
-    <img src="./faviconFolder.png" alt="Favicon folder" width="300" />
+    ![image](https://user-images.githubusercontent.com/61041772/164336356-7f7d7aa8-a642-4428-b66c-8d10b240540c.png)
+
 
 Then it should be ready!
 
