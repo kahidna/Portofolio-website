@@ -52,7 +52,7 @@ Also, replace the image located in `public/static/profile.png` with a picture of
 
 ### Change the Favicon
 
-So... you want to change that icon that shows up on your browser tab for your portfolio? (aka: A "Favicon")
+So... you want to change that icon that shows up on your browser tab for your portfolio? ("Favicon")
 
 <img src="./changeFavicon.png" alt="Favicon" width="200" />
 
