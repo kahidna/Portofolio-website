@@ -48,7 +48,7 @@ Now, before you run it locally, you should edit the content first!
 
 To do so, open the `data/config.js` file and edit the values to what makes you, you!
 
-Also, replace the image located in `public/static/profile.png` with a picture of yourself! Or a cool avatar! Or just keep it the same if you are actually LeBron James! (Hey bro if you're looking at this, then "hello world" to you!)
+Also, replace the image located in `public/static/profile.png` with a picture of yourself! Or a cool avatar!
 
 ### Change the Favicon
 
@@ -83,6 +83,6 @@ yarn dev
 
 
 
-
-
+---------
+let's try 
 ---------
