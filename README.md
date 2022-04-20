@@ -1,8 +1,4 @@
-# Obsidian
-
-![Obsidian banner](cover.png)
-
-_✨ Obsidian is a minimal and lightweight portfolio template built on NextJS and TailwindCSS. ✨_
+ ✨ minimal and lightweight portfolio template built on NextJS and TailwindCSS. ✨
 
 * [Setup](#setup)
     * [Install the dependencies](#install-the-dependencies)
@@ -83,19 +79,7 @@ yarn dev
 
 **_Ta-da!_** 🎉
 
-### Deploy onto a live website!
 
-Now, how do you get this published for all the world to see? [Vercel](https://vercel.com) is an awesome and 100% free option for this. 
-
-Signup for free with your Github account and click the "New Project" button on your dashboard.
-
-<img src="./vercel.png" alt="New Project button" width="600">
-
-Import the github repository you just created then after some loading...
-
-
-
-You're brand new portfolio should be ready to go!
 
 
 ---
