@@ -7,7 +7,7 @@
 * [Try it out!](#try-it-out)
     * [Run locally!](#run-locally)
     * [Deploy onto a live website!](#deploy-onto-a-live-website)
-* [About the developer](#about-the-developer)
+
 
 
 ## Setup
