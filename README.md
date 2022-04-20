@@ -12,17 +12,6 @@
 
 ## Setup
 
-First, start by clicking the 'Use this template' button. It will create a clone of this repository.
-
-<img src="step1.png" alt="Step one" width="500" />
-
-Then, name it whatever ya want. (Just not "animated-palm-tree" haha)
-
-<img src="step2.png" alt="Step two" width="500" />
-
-Once finished creating your new repository, enter the following command into your terminal: (replace the values with your github username and repository name from earlier and enter into that directory)
-
-```
 git clone https://github.com/<--USER-->/<--REPO-->
 cd <--FOLDER-NAME-->
 ```
