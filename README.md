@@ -19,7 +19,7 @@ First, start by clicking the 'Use this template' button. It will create a clone 
 
 <img src="step1.png" alt="Step one" width="500" />
 
-Then, name it whatever ya want. (Just not "animated-palm-tree" haha)
+Then,rename what do you want.
 
 <img src="step2.png" alt="Step two" width="500" />
 
