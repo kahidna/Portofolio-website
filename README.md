@@ -45,13 +45,13 @@ Now, before you run it locally, you should edit the content first!
 
 To do so, open the `data/config.js` file and edit the values to what makes you, you!
 
-Also, replace the image located in `public/static/profile.png` with a picture of yourself! Or a cool avatar! Or just keep it the same if you are actually LeBron James! (Hey LeBron if you're looking at this, then "hello world" to you!)
+Also, replace the image located in `public/static/profile.png` with a picture of yourself! Or a cool avatar! Or just keep it the same if you are actually LeBron James! (Hey bro if you're looking at this, then "hello world" to you!)
 
 ### Change the Favicon
 
 So... you want to change that icon that shows up on your browser tab for your portfolio? (aka: A "Favicon")
 
-<img src="./changeFavicon.png" alt="LeBron Favicon" width="200" />
+<img src="./changeFavicon.png" alt="Favicon" width="200" />
 
 Follow these steps:
 
@@ -77,7 +77,7 @@ npm run dev
 yarn dev
 ```
 
-**_Ta-da!_** 🎉
+
 
 
 
