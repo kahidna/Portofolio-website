@@ -1,7 +1,7 @@
 # Portofolio-website
 🌟️ Elegant portfolio template
 
- ✨template portofolio sederhana dan minimal yang dibangun di NextJS dan TailwindCSS✨
+ ✨simple and minimalist portfolio template built on NextJS and TailwindCSS✨
 
 * [Setup](#setup)
     * [Install the dependencies](#install-the-dependencies)
