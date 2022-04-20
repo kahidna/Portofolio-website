@@ -54,7 +54,8 @@ Also, replace the image located in `public/static/profile.png` with a picture of
 
 So... you want to change that icon that shows up on your browser tab for your portfolio? ("Favicon")
 
-<img src="./changeFavicon.png" alt="Favicon" width="200" />
+![image](https://user-images.githubusercontent.com/61041772/164336114-b0801378-8c2d-4a18-8e98-bc19a7c23541.png)
+
 
 Follow these steps:
 
