@@ -1,7 +1,11 @@
- ✨ minimal and lightweight portfolio template built on NextJS and TailwindCSS. ✨
+ # Portofolio-website
+🌟️ Elegant portfolio template
+
+ ✨simple and minimalist portfolio template built on NextJS and TailwindCSS✨
 
 * [Setup](#setup)
-    *  [Edit content](#Edit-content)  
+    * [Install the dependencies](#install-the-dependencies)
+    * [Edit content](#edit-content)
     * [Change the Favicon](#change-the-favicon)
 * [Try it out!](#try-it-out)
     * [Run locally!](#run-locally)
@@ -11,7 +15,17 @@
 
 ## Setup
 
+First, start by clicking the 'Use this template' button. It will create a clone of this repository.
 
+<img src="step1.png" alt="Step one" width="500" />
+
+Then,rename what do you want.
+
+<img src="step2.png" alt="Step two" width="500" />
+
+Once finished creating your new repository, enter the following command into your terminal: (replace the values with your github username and repository name from earlier and enter into that directory)
+
+```
 git clone https://github.com/<--USER-->/<--REPO-->
 cd <--FOLDER-NAME-->
 ```
@@ -34,13 +48,14 @@ Now, before you run it locally, you should edit the content first!
 
 To do so, open the `data/config.js` file and edit the values to what makes you, you!
 
-Also, replace the image located in `public/static/profile.png` with a picture of yourself! Or a cool avatar! Or just keep it the same if you are actually LeBron James! (Hey bro if you're looking at this, then "hello world" to you!)
+Also, replace the image located in `public/static/profile.png` with a picture of yourself! Or a cool avatar!
 
 ### Change the Favicon
 
-So... you want to change that icon that shows up on your browser tab for your portfolio? (aka: A "Favicon")
+So... you want to change that icon that shows up on your browser tab for your portfolio? ("Favicon")
 
-<img src="./changeFavicon.png" alt="Favicon" width="200" />
+![image](https://user-images.githubusercontent.com/61041772/164336114-b0801378-8c2d-4a18-8e98-bc19a7c23541.png)
+
 
 Follow these steps:
 
@@ -48,7 +63,8 @@ Follow these steps:
 2. Go to a favicon generator site like [favicon.io](https://favicon.io), go through the steps to get you icon files.
 3. Place those files in the `public/static/favicon/` like so:
 
-    <img src="./faviconFolder.png" alt="Favicon folder" width="300" />
+    ![image](https://user-images.githubusercontent.com/61041772/164336356-7f7d7aa8-a642-4428-b66c-8d10b240540c.png)
+
 
 Then it should be ready!
 
@@ -71,5 +87,11 @@ yarn dev
 
 
 
----------
+
+
+
+
+
+
+
 
