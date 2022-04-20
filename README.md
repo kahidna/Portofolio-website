@@ -93,7 +93,7 @@ Signup for free with your Github account and click the "New Project" button on y
 
 Import the github repository you just created then after some loading...
 
-![Mission accomplished](./gronk.gif)
+
 
 You're brand new portfolio should be ready to go!
 
@@ -101,16 +101,3 @@ Share it with some friends, family members, employers?
 
 ---
 
-## About the developer
-
-<h3><a href="https://github.com/braydentw">@BraydenTW</a></h3>
-Hey there! My name is Brayden and I'm a Frontend Developer and Designer building and designing awesome stuff for the web! I like to work with technologies like NextJS, TailwindCSS, and exploring the JavaScript ecosystem.
-<br /><br />
-Like my work?
-<br /><br />
-<a href="https://www.buymeacoffee.com/braydenw" target="_blank"><img src="https://raw.githubusercontent.com/BraydenTW/BraydenTW/master/buy-me-a-coffee.svg" alt="Buy Me A Coffee: @BraydenW" width="160"></a>&nbsp;&nbsp;
-<a href="https://paypal.me/braydentw" target="_blank"><img src="https://raw.githubusercontent.com/BraydenTW/BraydenTW/master/paypal.svg" alt="PayPal: @BraydenTW" width="160"></a>
-
-<hr>
-
-<p>Thank you so much for your support. 💖</p>
