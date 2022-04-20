@@ -97,7 +97,6 @@ Import the github repository you just created then after some loading...
 
 You're brand new portfolio should be ready to go!
 
-Share it with some friends, family members, employers?
 
 ---
 
