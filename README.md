@@ -1,6 +1,7 @@
  ✨ minimal and lightweight portfolio template built on NextJS and TailwindCSS. ✨
 
 * [Setup](#setup)
+    *  Edit content   
     * [Change the Favicon](#change-the-favicon)
 * [Try it out!](#try-it-out)
     * [Run locally!](#run-locally)
